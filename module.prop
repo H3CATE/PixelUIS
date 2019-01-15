@@ -1,0 +1,7 @@
+id=pixeluis
+name=Pixel UIS 
+version=v2
+versionCode=1
+author=H3CAT3
+description=Simple module to replace your current UI Sound with Pixel's Sound introduced in the Pixel 2 Device from Google
+minMagisk=17000
